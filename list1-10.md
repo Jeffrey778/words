@@ -9,7 +9,7 @@
 - **infer from**
 
 # List2
-- finding  n.裁决
+- **finding**  n.裁决
 - provided  conj.倘若，只要，假如
 - vanish  v.消失，消散
 - advocate
@@ -77,7 +77,7 @@
 # List7
 - anticipate
 - basis
-- conservative
+- **conservative**
 - evolution
 - exception children
 - **excessive**
