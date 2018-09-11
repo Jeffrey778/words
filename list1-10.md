@@ -1,5 +1,5 @@
 # List1
-- comprehension
+- **comprehension**
 - bracket
 - tend  vt.照料，看护
 - fund
@@ -9,7 +9,7 @@
 - **infer from**
 
 # List2
-- finding
+- finding  n.裁决
 - provided  conj.倘若，只要，假如
 - vanish  v.消失，消散
 - advocate
@@ -27,7 +27,7 @@
 - leisure
 - nevertheless
 - statue  n.塑像
-- appoint  vt.任命，委任；约定，指定
+- **appoint**  vt.任命，委任；约定，指定
 - aspect
 
 # List4
@@ -43,7 +43,7 @@
 
 # List5
 - reveal
-- sustain  vt.支撑，；维持；忍耐
+- sustain  vt.支撑；维持；忍耐
 - academic  n.学者，大学教师，学会会员
 - artificial
 - **assumption**
